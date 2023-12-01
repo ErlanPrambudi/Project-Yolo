@@ -1,0 +1,12 @@
+/content/Project-Yolo/obj/001.jpg
+/content/Project-Yolo/obj/002.jpg
+/content/Project-Yolo/obj/003.jpg
+/content/Project-Yolo/obj/004.jpg
+/content/Project-Yolo/obj/005.jpg
+/content/Project-Yolo/obj/006.jpg
+/content/Project-Yolo/obj/007.jpg
+/content/Project-Yolo/obj/008.jpg
+/content/Project-Yolo/obj/009.jpg
+/content/Project-Yolo/obj/010.jpg
+/content/Project-Yolo/obj/011.jpg
+/content/Project-Yolo/obj/012.jpg
